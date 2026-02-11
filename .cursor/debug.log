@@ -1,0 +1,132 @@
+{"location":"theory.js:21","message":"Function entry","data":{"str":"Hello World"},"timestamp":1770638990408,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"h"},"timestamp":1770638990409,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"h","isAlphanumeric":["h"]},"timestamp":1770638990410,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"e"},"timestamp":1770638990411,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"e","isAlphanumeric":["e"]},"timestamp":1770638990411,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"l"},"timestamp":1770638990412,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"l","isAlphanumeric":["l"]},"timestamp":1770638990441,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"l"},"timestamp":1770638990442,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"l","isAlphanumeric":["l"]},"timestamp":1770638990443,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"o"},"timestamp":1770638990444,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"o","isAlphanumeric":["o"]},"timestamp":1770638990444,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":" "},"timestamp":1770638990445,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":" ","isAlphanumeric":null},"timestamp":1770638990446,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"w"},"timestamp":1770638990446,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"w","isAlphanumeric":["w"]},"timestamp":1770638990447,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"o"},"timestamp":1770638990448,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"o","isAlphanumeric":["o"]},"timestamp":1770638990448,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"r"},"timestamp":1770638990449,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"r","isAlphanumeric":["r"]},"timestamp":1770638990450,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"l"},"timestamp":1770638990450,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"l","isAlphanumeric":["l"]},"timestamp":1770638990451,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"d"},"timestamp":1770638990452,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"d","isAlphanumeric":["d"]},"timestamp":1770638990452,"hypothesisId":"C"}
+{"location":"theory.js:36","message":"charCount before return","data":{"charCount":{"h":1,"e":1,"l":3,"o":2,"w":1,"r":1,"d":1}},"timestamp":1770638990453,"hypothesisId":"C"}
+{"location":"theory.js:21","message":"Function entry","data":{"str":"Hello World"},"timestamp":1770639007045,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"h"},"timestamp":1770639007046,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"h","isAlphanumeric":["h"]},"timestamp":1770639007047,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"e"},"timestamp":1770639007048,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"e","isAlphanumeric":["e"]},"timestamp":1770639007050,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"l"},"timestamp":1770639007051,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"l","isAlphanumeric":["l"]},"timestamp":1770639007053,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"l"},"timestamp":1770639007053,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"l","isAlphanumeric":["l"]},"timestamp":1770639007054,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"o"},"timestamp":1770639007055,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"o","isAlphanumeric":["o"]},"timestamp":1770639007056,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":" "},"timestamp":1770639007057,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":" ","isAlphanumeric":null},"timestamp":1770639007058,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"w"},"timestamp":1770639007059,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"w","isAlphanumeric":["w"]},"timestamp":1770639007060,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"o"},"timestamp":1770639007061,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"o","isAlphanumeric":["o"]},"timestamp":1770639007062,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"r"},"timestamp":1770639007063,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"r","isAlphanumeric":["r"]},"timestamp":1770639007063,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"l"},"timestamp":1770639007064,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"l","isAlphanumeric":["l"]},"timestamp":1770639007065,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"d"},"timestamp":1770639007065,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"d","isAlphanumeric":["d"]},"timestamp":1770639007066,"hypothesisId":"C"}
+{"location":"theory.js:36","message":"charCount before return","data":{"charCount":{"h":1,"e":1,"l":3,"o":2,"w":1,"r":1,"d":1}},"timestamp":1770639007067,"hypothesisId":"C"}
+{"location":"theory.js:21","message":"Function entry","data":{"str":"Hello World 12311312"},"timestamp":1770639178349,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"h"},"timestamp":1770639178350,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"h","isAlphanumeric":["h"]},"timestamp":1770639178350,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"e"},"timestamp":1770639178351,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"e","isAlphanumeric":["e"]},"timestamp":1770639178351,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"l"},"timestamp":1770639178352,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"l","isAlphanumeric":["l"]},"timestamp":1770639178353,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"l"},"timestamp":1770639178353,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"l","isAlphanumeric":["l"]},"timestamp":1770639178354,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"o"},"timestamp":1770639178355,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"o","isAlphanumeric":["o"]},"timestamp":1770639178355,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":" "},"timestamp":1770639178356,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":" ","isAlphanumeric":null},"timestamp":1770639178357,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"w"},"timestamp":1770639178357,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"w","isAlphanumeric":["w"]},"timestamp":1770639178358,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"o"},"timestamp":1770639178359,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"o","isAlphanumeric":["o"]},"timestamp":1770639178359,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"r"},"timestamp":1770639178360,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"r","isAlphanumeric":["r"]},"timestamp":1770639178361,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"l"},"timestamp":1770639178361,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"l","isAlphanumeric":["l"]},"timestamp":1770639178362,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"d"},"timestamp":1770639178363,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"d","isAlphanumeric":["d"]},"timestamp":1770639178363,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":" "},"timestamp":1770639178364,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":" ","isAlphanumeric":null},"timestamp":1770639178365,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"1"},"timestamp":1770639178365,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"1","isAlphanumeric":["1"]},"timestamp":1770639178366,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"2"},"timestamp":1770639178366,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"2","isAlphanumeric":["2"]},"timestamp":1770639178367,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"3"},"timestamp":1770639178367,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"3","isAlphanumeric":["3"]},"timestamp":1770639178368,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"1"},"timestamp":1770639178368,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"1","isAlphanumeric":["1"]},"timestamp":1770639178369,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"1"},"timestamp":1770639178369,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"1","isAlphanumeric":["1"]},"timestamp":1770639178370,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"3"},"timestamp":1770639178371,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"3","isAlphanumeric":["3"]},"timestamp":1770639178371,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"1"},"timestamp":1770639178372,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"1","isAlphanumeric":["1"]},"timestamp":1770639178373,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"2"},"timestamp":1770639178373,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"2","isAlphanumeric":["2"]},"timestamp":1770639178374,"hypothesisId":"C"}
+{"location":"theory.js:36","message":"charCount before return","data":{"charCount":{"1":4,"2":2,"3":2,"h":1,"e":1,"l":3,"o":2,"w":1,"r":1,"d":1}},"timestamp":1770639178375,"hypothesisId":"C"}
+{"location":"theory.js:21","message":"Function entry","data":{"str":"Hello World 12311312"},"timestamp":1770640426782,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"h"},"timestamp":1770640426783,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"h","isAlphanumeric":["h"]},"timestamp":1770640426784,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"e"},"timestamp":1770640426784,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"e","isAlphanumeric":["e"]},"timestamp":1770640426785,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"l"},"timestamp":1770640426786,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"l","isAlphanumeric":["l"]},"timestamp":1770640426787,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"l"},"timestamp":1770640426788,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"l","isAlphanumeric":["l"]},"timestamp":1770640426788,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"o"},"timestamp":1770640426789,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"o","isAlphanumeric":["o"]},"timestamp":1770640426790,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":" "},"timestamp":1770640426790,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":" ","isAlphanumeric":null},"timestamp":1770640426791,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"w"},"timestamp":1770640426792,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"w","isAlphanumeric":["w"]},"timestamp":1770640426792,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"o"},"timestamp":1770640426793,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"o","isAlphanumeric":["o"]},"timestamp":1770640426794,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"r"},"timestamp":1770640426794,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"r","isAlphanumeric":["r"]},"timestamp":1770640426795,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"l"},"timestamp":1770640426795,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"l","isAlphanumeric":["l"]},"timestamp":1770640426796,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"d"},"timestamp":1770640426797,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"d","isAlphanumeric":["d"]},"timestamp":1770640426798,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":" "},"timestamp":1770640426799,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":" ","isAlphanumeric":null},"timestamp":1770640426800,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"1"},"timestamp":1770640426800,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"1","isAlphanumeric":["1"]},"timestamp":1770640426801,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"2"},"timestamp":1770640426801,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"2","isAlphanumeric":["2"]},"timestamp":1770640426802,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"3"},"timestamp":1770640426803,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"3","isAlphanumeric":["3"]},"timestamp":1770640426804,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"1"},"timestamp":1770640426805,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"1","isAlphanumeric":["1"]},"timestamp":1770640426805,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"1"},"timestamp":1770640426806,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"1","isAlphanumeric":["1"]},"timestamp":1770640426806,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"3"},"timestamp":1770640426807,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"3","isAlphanumeric":["3"]},"timestamp":1770640426808,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"1"},"timestamp":1770640426809,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"1","isAlphanumeric":["1"]},"timestamp":1770640426809,"hypothesisId":"C"}
+{"location":"theory.js:26","message":"Char after toLowerCase","data":{"char":"2"},"timestamp":1770640426810,"hypothesisId":"C"}
+{"location":"theory.js:29","message":"isAlphanumeric check","data":{"char":"2","isAlphanumeric":["2"]},"timestamp":1770640426811,"hypothesisId":"C"}
+{"location":"theory.js:36","message":"charCount before return","data":{"charCount":{"1":4,"2":2,"3":2,"h":1,"e":1,"l":3,"o":2,"w":1,"r":1,"d":1}},"timestamp":1770640426811,"hypothesisId":"C"}
